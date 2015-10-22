@@ -9,13 +9,13 @@
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
-            <groupId>es.nangel.ermodel</groupId>
-            <artifactId>parser-all</artifactId>
+            <groupId>es.nangel.ermodel.parser</groupId>
+            <artifactId>all</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>es.nangel.ermodel</groupId>
-            <artifactId>model-all</artifactId>
+            <groupId>es.nangel.ermodel.model</groupId>
+            <artifactId>all</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
